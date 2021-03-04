@@ -8,8 +8,8 @@
     left: 250px;
 }
 .top-cloud{
-    position: relative;
-    left: 300px;
+    position: absolute;
+    right: 300px;
     top: 28px;
 }
 .underline{
@@ -94,6 +94,8 @@ hr{
 }
 .head1{
     margin-bottom: 40px;
+    margin-top: 00px;
+    padding-top: 100px;
 }
 
 .btn{
